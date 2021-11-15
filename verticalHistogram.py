@@ -1,6 +1,6 @@
 #Given an array, print a verticle hustogram
 def histogram(list):
-    title = "Title1     \tTitle2    \tTitle3    \tTitle4"
+    title = "Title1\tTitle2\tTitle3\tTitle4"
     print(title)
     while not all(n <= 0 for n in list):
         toPrint = ''
@@ -16,3 +16,5 @@ def histogram(list):
 
 
 histogram([2, 0, 4, 3])
+
+#check out the out at https://replit.com/@Zainab-Fahim/VericalHistogram
