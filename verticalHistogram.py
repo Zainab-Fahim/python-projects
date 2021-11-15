@@ -17,4 +17,4 @@ def histogram(list):
 
 histogram([2, 0, 4, 3])
 
-#check out the output at https://replit.com/@Zainab-Fahim/VericalHistogram
+#check out the output at https://replit.com/@Zainab-Fahim/VerticalHistogram?v=1
