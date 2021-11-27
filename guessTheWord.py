@@ -35,3 +35,5 @@ while turns > 0:
         break
     print('\nYou have only', turns, 'turns left')
 print('\nEnd of Game')
+
+#check out the live preview of this game on https://replit.com/@Zainab-Fahim/HangMan?v=1
